@@ -26,3 +26,9 @@ PS F:\STOCK_predict\venv\Scripts> .\activate
 It helps you to predict the stocks price using LSTM MODEL OF TENSORFLOW
 
 It helps stock beginners to practise in stock market
+
+
+
+my video link
+
+<href>https://drive.google.com/file/d/1pZqogIZ56Kl22wuD3-Sc9QUF0mLLucgB/view?usp=sharing</href>
